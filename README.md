@@ -10,7 +10,7 @@ Hopefully this will be available in the Chrome Extensions store soon. However, r
 
 1. Download the zipped extesion [here](./youtube-no-shorts.zip)
 2. Extract it somewhere on your computer
-3. Go to [chrome://extensions](chrome://extensions)
+3. Go to [chrome://extensions](chrome://extensions) in your web browser
 4. Enable Developer Mode
 5. Click Load unpacked and load the extracted folder
 6. that's it! the extension is now added to your web browser!
